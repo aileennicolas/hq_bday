@@ -1,0 +1,107 @@
+month,day,year,name,school,school_year,position,specialist
+January,1,1995,Asahi Azumane,Karasuno,3,Outside Hitter,Ace
+January,6,1995,Kiyoko Shimizu,Karasuno,3,Manager,
+January,10,1983,Ittetsu Takeda,Karasuno,,Teacher Advisor,
+January,14,1997,Tamahiko Teshiro,Nekoma,1,Setter,Pinch Server
+January,19,1997,Aoi Himekawa,Tsubakihara,1,Wing Spiker,Pinch Server
+January,23,1995,Haruki Komi,Fukurodani,3,Libero,
+January,25,1996,Rintaro Suna,Inarizaki,2,Middle Blocker,
+January,27,1995,Takahiro Hanamaki,Aobajohsai,3,Outside Hitter,
+January,29,1995,Keisuki Unnan,Mujinazaka,3,Middle Blocker,
+February,3,1996,Sachiro Hirugami,Kanomedai,2,Middle Blocker,
+February,10,1995,Takehito Sasaya,Datekou,3,Opposite Hitter,
+February,14,1995,Hayato Yamagata,Shiratorizawa,3,Libero,
+February,15,1996,Hisashi Kinoshita,Karasuno,2,Wing Spiker,
+February,17,1995,Ren Omimi,Inarizaki,3,Middle Blocker,
+February,19,1995,Hayati Ikejiri,Tokonami,3,Outside Hitter,
+February,22,1996,Taketora Yamamoto,Nekoma,2,Outside Hitter,Ace
+February,27,,Go Akaizawa,Kaji Wild Dogs,,Wing Spiker,
+March,1,1995,Issei Matsukawa,Aobajohsai,3,Middle Blocker,
+March,1,1996,Shigeru Yahaba,Aobajohsai,2,Setter,Pinch Server
+March,3,1996,Ryunosuke Tanaka,Karasuno,2,Outside Hitter,
+March,8,1991,Akiteru Tsukishima,Karasuno,Graduate,Fan,
+March,13,1999,Akane Yamamoto,Nekoma,Middle School,Fan,
+March,13,1997,Heisuke Riseki,Inarizaki,1,Wing Spiker,Pinch Server
+March,20,1996,Kiyoomi Sakusa,Itachiyama,2,Outside Hitter,Ace
+March,22,1997,Kazuyoshi Bessho,Kanomedai,1,Middle Blocker,
+March,25,1997,Akira Kunimi,Aobajohsai,1,Opposite Hitter,
+April,3,1995,Shinji Watari,Aobajohsai,2,Libero,
+April,3,1996,Yudai Hyakuzawa,Kakugawa,1,Outside Hitter,
+April,4,1994,Aran Ojiro,Inarizaki,3,Outside Hitter,Ace
+April,5,1986,Keishin Ukai,Karasuno,Graduate,Coach,
+April,5,1993,Alisa Haiba,Nekoma,Student,Fan,
+April,8,1994,Nobuyuki Kai,Nekoma,3,Opposite Hitter,Vice Captain
+April,8,1994,Wakatsu Kiryu,Mujinazaka,3,Outside Hitter,Ace
+April,12,1994,Michinari Akagi,Inarizaki,3,Libero,
+April,12,1994,Motoki Teradomari,Tsubakihara,3,Outside Hitter,Ace
+April,14,1996,Wataru Onaga,Fukurodani,1,Middle Blocker,
+April,15,1995,Taichi Kawanishi,Shiratorizawa,2,Middle Blocker,
+April,16,1994,Kazumasa Hanayama,Wakutani Minami,3,Setter,
+April,16,1995,Korai Hoshiumu,Kanomedai,2,Outside Hitter,Ace
+April,18,1995,Yuji Terushima,Johzenji,2,Opposite Hitter,Captain
+May,4,1995,Kenjiro Shirabu,Shiratorizawa,2,Setter,
+May,5,1991,Saeko Tanaka,Karasuno,Graduate,Fan,
+May,17,1988,Nicolas Romero,Schweiden Adlers,Professional,Outside Hitter,
+May,20,1994,Satori Tendo,Shiratorizawa,3,Middle Blocker,
+May,30,1994,Hana Misaki,Johzenji,3,Manager,
+June,6,1996,Yutaro Kindaichi,Aobajohsai,1,Middle Blocker,
+June,8,1994,Aikichi Suwa,Kanomedai,3,Setter,Captain
+June,10,1994,Hajime Iwaizumi,Aobajohsai,3,Outside Hitter,Ace/Vice Captain
+June,11,1994,Shinkin Kawatabi,Wakutani Minami,3,Opposite Hitter,
+June,13,1994,Koshi Sugawara,Karasuno,3,Setter,
+June,21,1996,Shoyo Hinata,Karasuno,1,Middle Blocker,
+June,27,1995,Gao Hakuba,Kanomedai,2,Opposite Hitter,
+July,1,1994,Suguru Daisho,Nohebi,3,Outside Hitter,Captain
+July,5,1994,Shinsuke Kita,Inarizaki,3,Outside Hitter,Captain
+July,9,1996,Kanji Koganegawa,Datekou,1,Setter,
+July,20,1994,Toru Oikawa,Aobajohsai,3,Setter,Captain
+August,1,1994,Nozomu Mami,Mujinazaka,3,Middle Blocker,
+August,1,1994,Yui Michimiya,Karasuno,3,Girls' Volleyball,Captain
+August,2,1994,Yamato Sarukui,Fukurodani,3,Outside Hitter,
+August,4,1994,Kazuma Namai,Nohebi,3,Outside Hitter,
+August,8,1994,Morisuke Yaku,Nekoma,3,Libero,
+August,13,1994,Wakatoshi Ushijima,Shiratorizawa,3,Opposite Hitter,Ace/Captain
+August,13,1995,Takanobu Aone,Datekou,2,Middle Blocker,
+August,17,1995,Kazuhito Narita,Karasuno,2,Middle Blocker,
+August,20,1994,Takeru Nakashima,Wakutani Minami,3,Outside Hitter,Ace/Captain
+August,21,1995,Hitoshi Ginjima,Inarizaki,2,Outside Hitter,
+August,22,1996,Tsutomu Goshiki,Shiratorizawa,1,Outside Hitter,
+August,24,1995,Yoshiki Towada,Ougiminami,2,Outside Hitter,Captain
+August,29,1994,Tatsuki Washio,Fukurodani,3,Middle Blocker,
+August,30,1996,Kosuke Sakunami,Datekou,1,Libero,
+September,1,1994,Izuru Nozawa,Kanomedai,3,Outside Hitter,
+September,4,1996,Hitoka Yachi,Karasuno,1,Manager,
+September,6,1994,Kaname Moniwa,Datekou,3,Setter,Captain
+September,9,1996,Naoyasu Kuguri,Nohebi,1,Outside Hitter,
+September,20,1994,Kotaro Bokuto,Fukurodani,3,Outside Hitter,Ace/Captain
+September,27,1996,Kei Tsukishima,Karasuno,1,Middle Blocker,
+September,29,1995,Shojei Fukunaga,Nekoma,2,Outside Hitter,
+September,30,1994,Akinori Konoha,Fukurodani,3,Opposite Hitter,
+October,5,1995,Atsumu Miya,Inarizaki,2,Setter,Captain
+October,5,1995,Osamu Miya,Inarizaki,2,Opposite Hitter,
+October,9,1994,Sakae Echigo,Tsubakihara,3,Setter,Captain
+October,10,1995,Yu Nishinoya,Karasuno,2,Libero,
+October,16,1995,Kenma Kozume,Nekoma,2,Setter,
+October,18,1994,Noboru Akimiya,Ougiminami,Graduate,Fan,
+October,19,1996,Eikichi Chigaya,Shinzen,1,Middle Blocker,
+October,24,1995,Kanoka Amani,Niiyama,2,Girls' Volleyball,
+October,30,1994,Reon Ohira,Shiratorizawa,3,Outside Hitter,
+October,30,1996,Lev Haiba,Nekoma,1,Middle Blocker,
+November,1,1996,So Inuoka,Nekoma,1,Middle Blocker,Opposite Hitter
+November,4,1994,Kazuki Maruyama,Tsubakihara,3,Outside Hitter,
+November,8,1994,Yasushi Kamasaki,Datekou,3,Middle Blocker,Vice Captain
+November,10,1995,Kenji Futakuchi,Datekou,2,Outside Hitter,Ace
+November,10,1996,Tadashi Yamaguchi,Karasuno,1,Middle Blocker,Pinch Server
+November,11,1994,Eita Semi,Shiratorizawa,3,Setter,Pinch Server
+November,17,1994,Tetsuro Kuroo,Nekoma,3,Middle Blocker,Captain
+November,29,1994,Keiichiro Kanbayashi,Kanomedai,3,Libero,
+December,5,1995,Keiji Akaashi,Fukurodani,2,Setter,Vice Captain
+December,7,1995,Kentaro Kyotani,Aobajohsai,2,Opposite Hitter,
+December,12,1995,Michiru Usuri,Mujinazaka,2,Setter,
+December,14,1995,Taro Onagawa,Datekou,2,Opposite Hitter,
+December,15,1995,Yutaka Obara,Datekou,2,Outside Hitter,
+December,16,1996,Yuki Shibayama,Nekoma,1,Libero,
+December,19,1994,Mika Yamaka,Nohebi,3,Student,
+December,22,1996,Tobio Kageyama,Karasuno,1,Setter,
+December,26,1995,Chikara Ennoshita,Karasuno,2,Wing Spiker,Captain
+December,31,1994,Daichi Sawamura,Karasuno,3,Opposite Hitter,Captain/Defensive Specialist
